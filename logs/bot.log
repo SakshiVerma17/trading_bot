@@ -1,0 +1,38 @@
+2026-04-23 21:14:02,847 - INFO - Bot started
+2026-04-23 21:14:02,868 - INFO - Placing order: BTCUSDT BUY MARKET 0.01 None
+2026-04-23 21:14:02,868 - INFO - Order response: {'orderId': 852006, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'status': 'FILLED', 'executedQty': 0.01, 'avgPrice': 'market_price'}
+2026-04-23 21:14:02,869 - INFO - Order placed: {'orderId': 852006, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'status': 'FILLED', 'executedQty': 0.01, 'avgPrice': 'market_price'}
+2026-04-23 21:14:05,523 - INFO - Bot started
+2026-04-23 21:14:05,543 - INFO - Placing order: BTCUSDT SELL LIMIT 0.01 80000.0
+2026-04-23 21:14:05,544 - INFO - Order response: {'orderId': 741475, 'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'status': 'NEW', 'executedQty': 0.01, 'avgPrice': 80000.0}
+2026-04-23 21:14:05,545 - INFO - Order placed: {'orderId': 741475, 'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'status': 'NEW', 'executedQty': 0.01, 'avgPrice': 80000.0}
+2026-04-23 21:19:25,754 - INFO - Bot started
+2026-04-23 21:19:25,780 - INFO - Placing order: BTCUSDT BUY MARKET 0.01 None
+2026-04-23 21:19:25,780 - INFO - Placing order: BTCUSDT BUY MARKET 0.01 None
+2026-04-23 21:19:25,780 - INFO - Order response: {'orderId': 444925, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'status': 'FILLED', 'executedQty': 0.01, 'avgPrice': 'market_price'}
+2026-04-23 21:19:25,780 - INFO - Order response: {'orderId': 444925, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'status': 'FILLED', 'executedQty': 0.01, 'avgPrice': 'market_price'}
+2026-04-23 21:19:25,780 - INFO - Order placed: {'orderId': 444925, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'status': 'FILLED', 'executedQty': 0.01, 'avgPrice': 'market_price'}
+2026-04-23 21:19:26,829 - INFO - Bot started
+2026-04-23 21:19:26,853 - INFO - Placing order: BTCUSDT SELL LIMIT 0.01 80000.0
+2026-04-23 21:19:26,853 - INFO - Placing order: BTCUSDT SELL LIMIT 0.01 80000.0
+2026-04-23 21:19:26,853 - INFO - Order response: {'orderId': 585774, 'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'status': 'NEW', 'executedQty': 0.01, 'avgPrice': 80000.0}
+2026-04-23 21:19:26,853 - INFO - Order response: {'orderId': 585774, 'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'status': 'NEW', 'executedQty': 0.01, 'avgPrice': 80000.0}
+2026-04-23 21:19:26,853 - INFO - Order placed: {'orderId': 585774, 'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'status': 'NEW', 'executedQty': 0.01, 'avgPrice': 80000.0}
+2026-04-23 21:45:36,170 - INFO - Bot started
+2026-04-23 21:45:36,218 - INFO - Placing order: BTCUSDT BUY MARKET 0.01 None
+2026-04-23 21:45:36,218 - INFO - Placing order: BTCUSDT BUY MARKET 0.01 None
+2026-04-23 21:45:36,219 - INFO - Order response: {'orderId': 379265, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'status': 'FILLED', 'executedQty': 0.01, 'avgPrice': 'market_price'}
+2026-04-23 21:45:36,219 - INFO - Order response: {'orderId': 379265, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'status': 'FILLED', 'executedQty': 0.01, 'avgPrice': 'market_price'}
+2026-04-23 21:45:36,219 - INFO - Order placed: {'orderId': 379265, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'status': 'FILLED', 'executedQty': 0.01, 'avgPrice': 'market_price'}
+2026-04-23 21:47:15,185 - INFO - Bot started
+2026-04-23 21:47:15,213 - INFO - Placing order: BTCUSDT BUY MARKET 0.01 None
+2026-04-23 21:47:15,213 - INFO - Placing order: BTCUSDT BUY MARKET 0.01 None
+2026-04-23 21:47:15,214 - INFO - Order response: {'orderId': 730023, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'status': 'FILLED', 'executedQty': 0.01, 'avgPrice': 'market_price'}
+2026-04-23 21:47:15,214 - INFO - Order response: {'orderId': 730023, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'status': 'FILLED', 'executedQty': 0.01, 'avgPrice': 'market_price'}
+2026-04-23 21:47:15,215 - INFO - Order placed: {'orderId': 730023, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'status': 'FILLED', 'executedQty': 0.01, 'avgPrice': 'market_price'}
+2026-04-23 21:47:23,318 - INFO - Bot started
+2026-04-23 21:47:23,343 - INFO - Placing order: BTCUSDT SELL LIMIT 0.01 80000.0
+2026-04-23 21:47:23,343 - INFO - Placing order: BTCUSDT SELL LIMIT 0.01 80000.0
+2026-04-23 21:47:23,343 - INFO - Order response: {'orderId': 990518, 'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'status': 'NEW', 'executedQty': 0.01, 'avgPrice': 80000.0}
+2026-04-23 21:47:23,344 - INFO - Order response: {'orderId': 990518, 'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'status': 'NEW', 'executedQty': 0.01, 'avgPrice': 80000.0}
+2026-04-23 21:47:23,344 - INFO - Order placed: {'orderId': 990518, 'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'status': 'NEW', 'executedQty': 0.01, 'avgPrice': 80000.0}
